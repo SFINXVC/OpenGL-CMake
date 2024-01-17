@@ -11,7 +11,7 @@ OpenGL-CMake is a starter project/template designed to help individuals learn Op
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sfinxvc/OpenGL-CMake.git
+   git clone https://github.com/SFINXVC/OpenGL-CMake.git
    cd OpenGL-CMake
    ```
 
